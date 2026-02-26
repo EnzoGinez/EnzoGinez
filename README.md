@@ -1,4 +1,6 @@
- Fei universidade de são bernardo do campo|  Futuro Dev Full Stack
+ Fei universidade de são bernardo do campo |  Futuro Dev Full Stack
+
+ 18 anos
 
 Atualmente estudando HTML, CSS, JavaScript e Python, sempre em busca de aprender mais e evoluir como desenvolvedor.
 Meu objetivo é me tornar um profissional Full Stack, criando soluções completas, do front-end ao back-end.
