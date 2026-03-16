@@ -17,8 +17,6 @@ Estudo programação des de 2024, **foco em estudar sites, APIs, e softwares**
 <a href="https://www.instagram.com/enzo.ginez/">
  <img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white">
  </a>
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
-
  </p>
 
 ---
