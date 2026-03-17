@@ -1,4 +1,4 @@
-# Óla 🖐️ Sou Enzo Ginez 
+# Olá 🖐️ Sou Enzo Ginez 
 
 **Programador Junior**
 
