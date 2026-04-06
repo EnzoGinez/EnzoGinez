@@ -25,7 +25,7 @@ Estudo programação des de 2024, **foco em estudar sites, APIs, e softwares**
 
  - Construçao de sites
  - Solução de problemas
- - Planilhias
+ - Planilhas
  
  ---
 
