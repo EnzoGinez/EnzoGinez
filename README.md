@@ -4,7 +4,7 @@
 
 Ciencia da computação | FEI São Bernardo do Campo
 
-Estudo programação des de 2024, **foco em estudar sites, APIs, e softwares**
+Estudo programação des de 2024, **foco em estudar o conteúdo Fronte-End, APIs, e Softwares**
 
 ---
 
