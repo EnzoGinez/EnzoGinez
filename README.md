@@ -21,10 +21,10 @@ Estudo programação des de 2024, **foco em estudar o conteúdo Fronte-End, APIs
 
 ---
 
- ## Oque Faço
+ ## Especializaçãoes
 
- - Construçao de sites
- - Solução de problemas
+ - Front - end
+ - Power BI
  - Planilhas
  
  ---
