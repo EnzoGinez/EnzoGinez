@@ -1,10 +1,10 @@
 # Olá 🖐️ Sou Enzo Ginez 
 
-**Programador Junior**
+**Desenvolvedor Full-stack**
 
 Ciencia da computação | FEI São Bernardo do Campo
 
-Estudo programação des de 2024, **foco em estudar o conteúdo Fronte-End, APIs, e Softwares**
+Estudo programação des de 2024, **foco em estudar o conteúdo Fronte-End, Back-End, Banco de dados, e Softwares**
 
 ---
 
