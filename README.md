@@ -24,8 +24,8 @@ Estudo programação des de 2024, **foco em estudar o conteúdo Fronte-End, Back
  ## Especializaçãoes
 
  - Front - end
- - Power BI
- - Planilhas
+ - Back - end
+ - Banco de Dados
  
  ---
 
@@ -37,6 +37,7 @@ Estudo programação des de 2024, **foco em estudar o conteúdo Fronte-End, Back
  - Python
  - APIs
  - MySQl
+ - FastAPI
 
 
 
