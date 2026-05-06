@@ -46,7 +46,8 @@ I've been studying programming since 2024, with a focus on **Front-End, Back-End
 |---------|-------------|------|
 | [Weather App Pro](https://github.com/EnzoGinez/weather-app-pro) | Real-time weather forecast using the OpenWeatherMap API | HTML, CSS, JS |
 | [Video Management System](https://github.com/EnzoGinez/Sistema-De-Gerenciamento) | Academic video management platform with login, favorites and history | Python |
-| [E-Commerce](https://github.com/EnzoGinez/ecommerce) | Luxury streetwear e-commerce frontend with slider and product pages | HTML, CSS, JS |
+| [E-Commerce](https://github.com/EnzoGinez/ecommerce) |streetwear e-commerce frontend and backend with product pages | HTML, CSS, JS 
+, more... |
 
 ---
 
