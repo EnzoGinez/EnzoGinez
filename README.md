@@ -38,5 +38,49 @@ I've been studying programming since 2024, with a focus on **Front-End, Back-End
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=EnzoGinez&show_icons=true&theme=dark&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGinez&layout=compact&theme=dark&hide_border=true" height="165">
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoGinez&theme=dark&hide_border=true">
+</p>
+
+---
+
+## 📁 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Weather App Pro](https://github.com/EnzoGinez/weather-app-pro) | Real-time weather forecast using the OpenWeatherMap API | HTML, CSS, JS |
+| [Video Management System](https://github.com/EnzoGinez/Sistema-De-Gerenciamento) | Academic video management platform with login, favorites and history | Python |
+| [Chrome Hearts E-Commerce](https://github.com/EnzoGinez/ecommerce) | Luxury streetwear e-commerce frontend with slider and product pages | HTML, CSS, JS |
+
+---
+
+## 🚀 Currently Learning
+
+- React.js
+- Node.js
+- SQL / MySQL
+
+---
+
+## 🎯 Goals for 2025
+
+- [ ] Build my first full-stack project
+- [ ] Learn React and Node.js
+- [ ] Land my first internship
+- [ ] Contribute to an open source project
+
+---
+
+*Thanks for visiting my profile! Feel free to explore my repositories.* 🚀
+
 
 
