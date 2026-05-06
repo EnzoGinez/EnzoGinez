@@ -60,7 +60,7 @@ I've been studying programming since 2024, with a focus on **Front-End, Back-End
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 - [ ] Build my first full-stack project
 - [ ] Learn More Back - end aspects
