@@ -2,17 +2,17 @@
   <a href="README.md">🇺🇸 English</a> | <a href="README-pt.md">🇧🇷 Português</a>
 </div>
 
-# OLÁ 🖐️ Eu sou o Enzo Ginez
+# HI 🖐️ I'm Enzo Ginez
 
-**Desenvolvedor Full-Stack**
+**Full-Stack Developer**
 
-Ciência da Computação | FEI — São Bernardo do Campo
+Computer Science | FEI — São Bernardo do Campo
 
-Estudo programação desde 2024, com foco em **Front-End, Back-End, Banco de Dados e Desenvolvimento de Software**.
+I've been studying programming since 2024, with a focus on **Front-End, Back-End, Databases, and Software Development**.
 
 ---
 
-## 📬 Onde me encontrar
+## 📬 Where to Find Me
 
 <p align="left">
   <a href="https://github.com/EnzoGinez">
@@ -25,15 +25,15 @@ Estudo programação desde 2024, com foco em **Front-End, Back-End, Banco de Dad
 
 ---
 
-## 🎯 Especializações
+## 🎯 Specializations
 
-- 🖥️ Desenvolvimento Front-End
-- ⚙️ Desenvolvimento Back-End
-- 🗄️ Banco de Dados
+- 🖥️ Front-End Development
+- ⚙️ Back-End Development
+- 🗄️ Databases
 
 ---
 
-## 🧠 Conhecimentos
+## 🧠 Knowledge
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -44,17 +44,17 @@ Estudo programação desde 2024, com foco em **Front-End, Back-End, Banco de Dad
 
 ---
 
-## 📁 Projetos em Destaque
+## 📁 Featured Projects
 
-| Projeto | Descrição | Tecnologias |
+| Project | Description | Tech |
 |---------|-------------|------|
-| [Weather App Pro](https://github.com/EnzoGinez/weather-app-pro) | Previsão do tempo em tempo real usando a API OpenWeatherMap | HTML, CSS, JS |
-| [Video Management System](https://github.com/EnzoGinez/Sistema-De-Gerenciamento) | Plataforma acadêmica de gerenciamento de vídeos com login, favoritos e histórico | Python |
-| [E-Commerce](https://github.com/EnzoGinez/ecommerce) | E-commerce de streetwear (frontend e backend) com páginas de produtos | HTML, CSS, JS , e mais... |
+| [Weather App Pro](https://github.com/EnzoGinez/weather-app-pro) | Real-time weather forecast using the OpenWeatherMap API | HTML, CSS, JS |
+| [Video Management System](https://github.com/EnzoGinez/Sistema-De-Gerenciamento) | Academic video management platform with login, favorites and history | Python |
+| [E-Commerce](https://github.com/EnzoGinez/ecommerce) | Streetwear e-commerce frontend and backend with product pages | HTML, CSS, JS, more... |
 
 ---
 
-## 🚀 Estudando Atualmente
+## 🚀 Currently Learning
 
 - HTML
 - CSS
@@ -64,16 +64,15 @@ Estudo programação desde 2024, com foco em **Front-End, Back-End, Banco de Dad
 
 ---
 
-## 🎯 Metas para 2026
+## 🎯 Goals for 2026
 
-- [ ] Construir meu primeiro projeto full-stack
-- [ ] Aprender mais profundamente sobre Back-end
-- [ ] Estudar e me aprimorar em Inteligência Artificial
-- [ ] Contribuir com a comunidade através dos meus projetos
+- [ ] Build my first full-stack project
+- [ ] Learn more Back-end aspects
+- [ ] Learn and improve more on AI
+- [ ] Contribute to the community through my projects
 
 ---
 
-*Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios.* 🚀
-
+*Thanks for visiting my profile! Feel free to explore my repositories.* 🚀
 
 
