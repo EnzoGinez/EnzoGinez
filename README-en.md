@@ -8,7 +8,7 @@
 
 Computer Science | FEI — São Bernardo do Campo
 
-Studying since 2024, focused on building solid infrastructures, **Databases, Automation (Python/C), and Artificial Intelligence**. 
+Studying since 2024, focused on building solid infrastructures, **Databases, Automation, and Artificial Intelligence**. 
 
 ---
 
