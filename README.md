@@ -1,18 +1,18 @@
-*<div align="right">
-  <a href="README.md">🇺🇸 English</a> | <a href="README-pt.md">🇧🇷 Português</a>
+<div align="right">
+  <a href="README-en.md">🇺🇸 English</a> | <a href="README.md">🇧🇷 Português</a>
 </div>
 
-# HELLO 🖐️ I'm Enzo Ginez
+# OLÁ 🖐️ Eu sou o Enzo Ginez
 
-**Data Engineer in Training | AI Enthusiast**
+**Engenheiro de Dados em Formação | Entusiasta em IA**
 
-Computer Science | FEI — São Bernardo do Campo
+Ciência da Computação | FEI — São Bernardo do Campo
 
-Studying since 2024, focused on building solid infrastructures, **Databases, Automation (Python/C), and Artificial Intelligence**. 
+Estudando desde 2024, focado na construção de infraestruturas sólidas, **Bancos de Dados, Automação (Python/C) e Inteligência Artificial**. 
 
 ---
 
-## 📬 Let's Connect
+## 📬 Onde me encontrar
 
 <p align="left">
   <a href="SEU_LINK_DO_LINKEDIN_AQUI">
@@ -25,16 +25,7 @@ Studying since 2024, focused on building solid infrastructures, **Databases, Aut
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EnzoGinez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGinez&layout=compact&langs_count=6&theme=dark"/>
-</p>
-
----
-
-## 🧠 Tech Stack & Tools
+## 🧠 Stack e Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
@@ -47,18 +38,46 @@ Studying since 2024, focused on building solid infrastructures, **Databases, Aut
 
 ---
 
-## 📁 Featured Projects
+## 📊 Estatísticas do GitHub
 
-| Project | Description | Technologies |
-|---------|-------------|------|
-| **[Video Management System](https://github.com/EnzoGinez/Sistema-De-Gerenciamento)** | Academic data management platform with structured history | Python |
-| **[E-Commerce](https://github.com/EnzoGinez/ecommerce)** | Complete system with emphasis on product modeling and Back-End flow | HTML, JS, Back-End |
-| **[Weather App Pro](https://github.com/EnzoGinez/weather-app-pro)** | Real-time RESTful API consumption (OpenWeatherMap) for data extraction | JS, API |
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EnzoGinez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGinez&layout=compact&langs_count=6&theme=dark"/>
+</p>
 
 ---
 
-## 🚀 Current Focus & Studies
+## 📁 Projetos em Destaque
 
-- 🗄️ **Data Engineering:** Relational modeling, query optimization, and SQL architecture.
-- 🤖 **Artificial Intelligence:** Data logic with Python.
--**
+| Projeto | Descrição | Tecnologias |
+|---------|-------------|------|
+| **[Video Management System](https://github.com/EnzoGinez/Sistema-De-Gerenciamento)** | Plataforma de gerenciamento de dados acadêmicos com histórico estruturado | Python |
+| **[E-Commerce](https://github.com/EnzoGinez/ecommerce)** | Sistema completo com ênfase na modelagem de produtos e fluxo do Back-End | HTML, JS, Back-End |
+| **[Weather App Pro](https://github.com/EnzoGinez/weather-app-pro)** | Consumo de API RESTful em tempo real (OpenWeatherMap) para extração de dados | JS, API |
+
+---
+
+## 🗣️ Idiomas
+- 🇧🇷 **Português:** Nativo
+- 🇺🇸 **Inglês:** Avançado
+
+---
+
+## 🚀 Foco e Estudos Atuais
+
+- 🗄️ **Engenharia de Dados:** Modelagem relacional, otimização de consultas e arquitetura SQL.
+- 🤖 **Inteligência Artificial:** Lógica de dados com Python.
+- ⚙️ **Hardware & Baixo Nível:** Processamento de dados via sensores com C e Arduino.
+
+---
+
+## 🎯 Metas para 2027
+
+- [ ] Aprofundar o domínio na arquitetura e otimização de Bancos de Dados Relacionais e Não-Relacionais.
+- [ ] Desenvolver meu primeiro Pipeline de Dados (Extração, Transformação e Carga - ETL).
+- [ ] Construir a arquitetura de dados do **Projeto Judô**, estruturando o armazenamento de alunos e relatórios de frequência.
+- [ ] Iniciar estudos práticos em algoritmos de Machine Learning e Inteligência Artificial.
+
+---
+
+*Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios.* 🚀
