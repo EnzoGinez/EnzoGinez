@@ -4,19 +4,19 @@
 
 # OLÁ 🖐️ Eu sou o Enzo Ginez
 
-**Desenvolvedor Full-Stack**
+**Engenheiro de Dados em Formação | Entusiasta em IA**
 
 Ciência da Computação | FEI — São Bernardo do Campo
 
-Estudo programação desde 2024, com foco em **Front-End, Back-End, Banco de Dados e Desenvolvimento de Software**.
+Estudando desde 2024, focado na construção de infraestruturas sólidas, **Bancos de Dados, Automação (Python/C) e Inteligência Artificial**. 
 
 ---
 
 ## 📬 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/EnzoGinez">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+  <a href="SEU_LINK_DO_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.instagram.com/enzo.ginez/">
     <img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -25,21 +25,24 @@ Estudo programação desde 2024, com foco em **Front-End, Back-End, Banco de Dad
 
 ---
 
-## 🎯 Especializações
+## 📊 Estatísticas do GitHub
 
-- 🖥️ Desenvolvimento Front-End
-- ⚙️ Desenvolvimento Back-End
-- 🗄️ Banco de Dados
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EnzoGinez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGinez&layout=compact&langs_count=6&theme=dark"/>
+</p>
 
 ---
 
-## 🧠 Conhecimentos
+## 🧠 Stack e Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
 </p>
 
 ---
@@ -48,28 +51,26 @@ Estudo programação desde 2024, com foco em **Front-End, Back-End, Banco de Dad
 
 | Projeto | Descrição | Tecnologias |
 |---------|-------------|------|
-| [Weather App Pro](https://github.com/EnzoGinez/weather-app-pro) | Previsão do tempo em tempo real usando a API OpenWeatherMap | HTML, CSS, JS |
-| [Video Management System](https://github.com/EnzoGinez/Sistema-De-Gerenciamento) | Plataforma acadêmica de gerenciamento de vídeos com login, favoritos e histórico | Python |
-| [E-Commerce](https://github.com/EnzoGinez/ecommerce) | E-commerce de streetwear (frontend e backend) com páginas de produtos | HTML, CSS, JS , e mais... |
+| **[Video Management System](https://github.com/EnzoGinez/Sistema-De-Gerenciamento)** | Plataforma de gerenciamento de dados acadêmicos com histórico estruturado | Python |
+| **[E-Commerce](https://github.com/EnzoGinez/ecommerce)** | Sistema completo com ênfase na modelagem de produtos e fluxo do Back-End | HTML, JS, Back-End |
+| **[Weather App Pro](https://github.com/EnzoGinez/weather-app-pro)** | Consumo de API RESTful em tempo real (OpenWeatherMap) para extração de dados | JS, API |
 
 ---
 
-## 🚀 Estudando Atualmente
+## 🚀 Foco e Estudos Atuais
 
-- HTML
-- CSS
-- JavaScript
-- Python
-- SQL / MySQL
+- 🗄️ **Engenharia de Dados:** Modelagem relacional, otimização de consultas e arquitetura SQL.
+- 🤖 **Inteligência Artificial:** Lógica de dados com Python.
+- ⚙️ **Hardware & Baixo Nível:** Processamento de dados via sensores com C e Arduino.
 
 ---
 
-## 🎯 Metas para 2026
+## 🎯 Metas para 2027
 
-- [ ] Construir meu primeiro projeto full-stack
-- [ ] Aprender mais profundamente sobre Back-end
-- [ ] Estudar e me aprimorar em Inteligência Artificial
-- [ ] Contribuir com a comunidade através dos meus projetos
+- [ ] Aprofundar o domínio na arquitetura e otimização de Bancos de Dados Relacionais e Não-Relacionais.
+- [ ] Desenvolver meu primeiro Pipeline de Dados (Extração, Transformação e Carga - ETL).
+- [ ] Construir a arquitetura de dados do **Projeto Judô**, estruturando o armazenamento de alunos e relatórios de frequência.
+- [ ] Iniciar estudos práticos em algoritmos de Machine Learning e Inteligência Artificial.
 
 ---
 
