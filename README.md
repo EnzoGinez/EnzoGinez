@@ -8,7 +8,7 @@
 
 Ciência da Computação | FEI — São Bernardo do Campo
 
-Estudando desde 2024, focado na construção de infraestruturas sólidas, **Bancos de Dados, Automação (Python/C) e Inteligência Artificial**. 
+Estudando desde 2024, focado na construção de infraestruturas sólidas, **Bancos de Dados, Automação e Inteligência Artificial**. 
 
 ---
 
