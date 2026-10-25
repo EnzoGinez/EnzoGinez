@@ -1,22 +1,22 @@
-<div align="right">
+*<div align="right">
   <a href="README.md">🇺🇸 English</a> | <a href="README-pt.md">🇧🇷 Português</a>
 </div>
 
-# HI 🖐️ I'm Enzo Ginez
+# HELLO 🖐️ I'm Enzo Ginez
 
-**Full-Stack Developer**
+**Data Engineer in Training | AI Enthusiast**
 
 Computer Science | FEI — São Bernardo do Campo
 
-I've been studying programming since 2024, with a focus on **Front-End, Back-End, Databases, and Software Development**.
+Studying since 2024, focused on building solid infrastructures, **Databases, Automation (Python/C), and Artificial Intelligence**. 
 
 ---
 
-## 📬 Where to Find Me
+## 📬 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/EnzoGinez">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+  <a href="SEU_LINK_DO_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.instagram.com/enzo.ginez/">
     <img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -25,54 +25,40 @@ I've been studying programming since 2024, with a focus on **Front-End, Back-End
 
 ---
 
-## 🎯 Specializations
+## 📊 GitHub Stats
 
-- 🖥️ Front-End Development
-- ⚙️ Back-End Development
-- 🗄️ Databases
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EnzoGinez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGinez&layout=compact&langs_count=6&theme=dark"/>
+</p>
 
 ---
 
-## 🧠 Knowledge
+## 🧠 Tech Stack & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
 </p>
 
 ---
 
 ## 📁 Featured Projects
 
-| Project | Description | Tech |
+| Project | Description | Technologies |
 |---------|-------------|------|
-| [Weather App Pro](https://github.com/EnzoGinez/weather-app-pro) | Real-time weather forecast using the OpenWeatherMap API | HTML, CSS, JS |
-| [Video Management System](https://github.com/EnzoGinez/Sistema-De-Gerenciamento) | Academic video management platform with login, favorites and history | Python |
-| [E-Commerce](https://github.com/EnzoGinez/ecommerce) | Streetwear e-commerce frontend and backend with product pages | HTML, CSS, JS, more... |
+| **[Video Management System](https://github.com/EnzoGinez/Sistema-De-Gerenciamento)** | Academic data management platform with structured history | Python |
+| **[E-Commerce](https://github.com/EnzoGinez/ecommerce)** | Complete system with emphasis on product modeling and Back-End flow | HTML, JS, Back-End |
+| **[Weather App Pro](https://github.com/EnzoGinez/weather-app-pro)** | Real-time RESTful API consumption (OpenWeatherMap) for data extraction | JS, API |
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 Current Focus & Studies
 
-- HTML
-- CSS
-- JavaScript
-- Python
-- SQL / MySQL
-
----
-
-## 🎯 Goals for 2026
-
-- [ ] Build my first full-stack project
-- [ ] Learn more Back-end aspects
-- [ ] Learn and improve more on AI
-- [ ] Contribute to the community through my projects
-
----
-
-*Thanks for visiting my profile! Feel free to explore my repositories.* 🚀
-
-
+- 🗄️ **Data Engineering:** Relational modeling, query optimization, and SQL architecture.
+- 🤖 **Artificial Intelligence:** Data logic with Python.
+-**
