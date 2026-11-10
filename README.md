@@ -79,23 +79,6 @@ class EnzoGinez:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EnzoGinez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGinez&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-## 📈 Gráfico de Atividade
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EnzoGinez&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
-
----
-
 ## 🚀 Foco e Estudos Atuais
 
 | Área | O que estou estudando |
