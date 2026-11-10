@@ -66,7 +66,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |:--------|:----------|:-----------:|
-| 🎬 **[Sistema de Vídeos](https://github.com/EnzoGinez/Sistema-de-gerenciamneto-modificado)** ![Em desenvolvimento](https://img.shields.io/badge/-Em%20desenvolvimento-orange) | Plataforma de vídeos com autenticação de usuários e login integrado a banco de dados | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| 🎬 **[Sistema de Vídeos](https://github.com/EnzoGinez/Sistema-de-gerenciamneto-modificado)** ![Em desenvolvimento](https://img.shields.io/badge/-Em%20desenvolvimento-orange) | Plataforma de vídeos com autenticação de usuários e login integrado a banco de dados | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
 | 🛒 **[E-Commerce](https://github.com/EnzoGinez/ecommerce)** | Sistema completo com ênfase na modelagem de produtos e no fluxo do back-end | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) |
 | 🌦️ **[Weather App Pro](https://github.com/EnzoGinez/weather-app-pro)** | Consumo de API RESTful em tempo real (OpenWeatherMap) para extração de dados | ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) ![API](https://img.shields.io/badge/-REST%20API-009688?logo=fastapi&logoColor=white) |
 
