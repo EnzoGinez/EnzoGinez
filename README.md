@@ -28,18 +28,11 @@
 
 ## 👨‍💻 Sobre mim
 
-```python
-class EnzoGinez:
-    def __init__(self):
-        self.curso      = "Ciência da Computação"
-        self.faculdade  = "FEI — São Bernardo do Campo"
-        self.desde      = 2024
-        self.foco       = ["Engenharia de Dados", "Bancos de Dados", "Automação", "IA"]
-        self.idiomas    = {"Português": "Nativo", "Inglês": "Avançado"}
-
-    def missao(self):
-        return "Construir infraestruturas de dados sólidas, escaláveis e inteligentes."
-```
+- 🎓 **Curso:** Ciência da Computação — FEI (São Bernardo do Campo)
+- 📅 **Estudando desde:** 2024
+- 🎯 **Foco:** Engenharia de Dados, Bancos de Dados, Automação e Inteligência Artificial
+- 🌎 **Idiomas:** Português (nativo) e Inglês (avançado)
+- 💡 **Missão:** Construir infraestruturas de dados sólidas, escaláveis e inteligentes
 
 ---
 
