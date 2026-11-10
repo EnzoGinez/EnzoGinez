@@ -84,19 +84,14 @@ class EnzoGinez:
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=EnzoGinez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGinez&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=EnzoGinez&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
-## 🐍 Minhas Contribuições
+## 📈 Gráfico de Atividade
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnzoGinez/EnzoGinez/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/EnzoGinez/EnzoGinez/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EnzoGinez&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
@@ -107,6 +102,7 @@ class EnzoGinez:
 |:-----|:----------------------|
 | 🗄️ **Engenharia de Dados** | Modelagem relacional, otimização de consultas e arquitetura SQL |
 | 🤖 **Inteligência Artificial** | Lógica e manipulação de dados com Python |
+| 📱 **Desenvolvimento Web & Mobile** | Criação de sites e aplicativos |
 
 ---
 
